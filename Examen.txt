@@ -1,0 +1,30 @@
+Definir qué és una función.
+Ejercicio N°1:
+Dada la siguiente función indicar la respuesta correcta
+def suma5y7():
+  print(f"el resultado es {5+7}")
+
+->Imprimir resultado(Agregar código)
+
+Seleccionar respuesta correcta
+A: Obtenemos 5 en pantalla.
+B: Obtenemos un error.
+C: Aparece un asterisco en pantalla.
+D: Obtenemos 12 en pantalla.
+E: Ninguna es correcta.
+
+Ejercicio N°2:
+
+Mivariable=13
+Def función(parametro)
+variable=13
+print(f"La variable global que hemos definido antes valía:13")
+print(f"El valor de la variable local es:13")
+print(f"El parámetro con el que llamamos a la función vale:programación")
+
+Indicar cuál es el parámetro de la función y la variable dentro
+del contexto de la función si es accesible o no 
+
+Indicar cuál es la variable global, la variable local y el parámetro.
+
+Indicar qué valor toma el parámetro

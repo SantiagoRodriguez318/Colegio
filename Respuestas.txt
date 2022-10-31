@@ -1,0 +1,27 @@
+Una función es un bloque de códigos que realiza una función. Una función puede definír
+los parametros de entrada que permiten a los llamadores pasar argumentos a la función.
+
+Ejercicio N°1:
+
+def suma5y7():
+  print(f"el resultado es: {5+7}")
+suma5y7()
+
+La respuesta correcta es la D
+
+Ejercicio N°2:
+
+Mivariable=13
+Def función(parametro)
+variable=13
+print(f"La variable global que hemos definido antes valía:13")
+print(f"El valor de la variable local es:13")
+print(f"El parámetro con el que llamamos a la función vale:programación")
+
+a: El parámetro de la función es programación y no es ninguna accesible, porque están dentro 
+de la función
+
+b: La variable global es Mivariable, la variable local es variable y el parámetro sigue siendo 
+el parámetro
+
+c: 
